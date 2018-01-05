@@ -40,6 +40,10 @@
                 /js/**=anon
                 /img/**=anon
                 /css/**=anon
+                /assets/**=anon
+                /font/**=anon
+                /images/**=anon
+                /products**=anon
                 <!--登陆认证的地址 如果进行了自定义的loginURL保持一致-->
                 /loginsubmit=authc
 
